@@ -10,6 +10,8 @@
 
     <h1>Iniciar  sesión</h1>
 
+    <p>Probando nueva rama</p>
+
     <form action="" style="text-align: center; border:2px solid black; margin:50px; padding: 15px;">
         <label for="">Correo</label><br>
         <input type="email">
